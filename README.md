@@ -1,4 +1,4 @@
-A super simple theremin wanna-be with just three notes. Very little training under very specific conditions. Will be doing more testing and adding more training samples to make it more robust.
+A super simple theremin wanna-be with just three notes.
 
 - [teachablemachine](https://teachablemachine.withgoogle.com/)
 - [tonejs](https://tonejs.github.io/)
